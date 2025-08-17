@@ -12,7 +12,7 @@
 ***<h1 align="center">🎲 About Me </h1>***
   <p align="center">
   Hi, I'm Saikot Kundu — a passionate and curious final-year Computer Science student at American International University - Bangladesh. I specialize in Software Development, with a growing expertise in Artificial Intelligence, Machine Learning, and Deep Learning. My journey in tech began with foundational programming languages like C++, Java, Python, and PHP, and evolved as I explored web technologies such as HTML, CSS, and JavaScript. As a fresher stepping into the professional world, I aspire to become an AI-enhanced software Developer, blending cutting-edge AI with robust software engineering principles. A problem-solving mindset deeply drives me — I enjoy analyzing real-world challenges and crafting smart, efficient digital solutions that make a meaningful impact. My long-term vision lies in Research and Development-based software solutions, where innovation meets practicality. I believe in continuous learning, clean code, and building systems that work efficiently and think intelligently.<br>
-  <b>🔎Research Interests:</b> Machine Learning
+  <b>🔎Research Interests:</b> Machine Learning & Computer Vision.
   </p>
 
 ***<h1 align="center">📈 Stats </h1>***
