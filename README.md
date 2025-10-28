@@ -30,11 +30,11 @@
 
 <!-- Markdown -->
 
-   <!-- ![CodePoint-46615's Stats](https://github-readme-stats.vercel.app/api?username=CodePoint-46615&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![CodePoint-46615's Stats](https://github-readme-stats.vercel.app/api?username=CodePoint-46615&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-   ![CodePoint-46615's Streak](https://streak-stats.demolab.com/?user=CodePoint-46615&theme=vue-dark)
+  ![CodePoint-46615's Streak](https://streak-stats.demolab.com/?user=CodePoint-46615&theme=vue-dark)
 
-  ![CodePoint-46615's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodePoint-46615&hide=Hack&theme=vue-dark&layout=compact)  -->
+  ![CodePoint-46615's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodePoint-46615&hide=Hack&theme=vue-dark&layout=compact) 
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
