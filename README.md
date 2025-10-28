@@ -48,7 +48,7 @@
 
 <!-- Course Related Repo -->
 <details close>
-  <summary><h4>🎓 Academic & Course</h4></summary>
+  <summary><h3>🎓 Academic & Course</h3></summary>
   <p align="left">
     <a href="https://github.com/CodePoint-46615/AgriPro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=AgriPro&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgriPro"></a>
   </p>
@@ -56,7 +56,7 @@
 
 <!-- Frontend Repo -->
 <details close>
-  <summary><h4>🖥️ Frontend</h4></summary>
+  <summary><h3>🖥️ Frontend</h3></summary>
   <p align="left">
     <a href="https://github.com/CodePoint-46615/AgriPro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=AgriPro&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgriPro"></a>
   </p>
@@ -64,7 +64,7 @@
 
 <!-- Backend Repo -->
 <details close>
-  <summary><h4>⚙️ Backend</h4></summary>
+  <summary><h3>⚙️ Backend</h3></summary>
   <p align="left">
     <a href="https://github.com/CodePoint-46615/AgriPro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=AgriPro&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgriPro"></a>
   </p>
@@ -72,7 +72,7 @@
 
 <!-- AI Repo -->
 <details close>
-  <summary><h4>🤖 AI</h4></summary>
+  <summary><h3>🤖 AI</h3></summary>
   <p align="left">
     <a href="https://github.com/CodePoint-46615/AgriPro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=AgriPro&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgriPro"></a>
   </p>
@@ -80,7 +80,7 @@
 
 <!-- Forked Repo -->
 <details close>
-  <summary><h4>Ψ Fork</h4></summary>
+  <summary><h3>Ψ Fork</h3></summary>
   <p align="left">
     <a href="https://github.com/CodePoint-46615/AgriPro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=AgriPro&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgriPro"></a>
   </p>
