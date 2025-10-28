@@ -36,7 +36,8 @@
 
   ![CodePoint-46615's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodePoint-46615&hide=Hack&theme=vue-dark&layout=compact)  -->
 
-<details open> 
+<details close> 
+
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
