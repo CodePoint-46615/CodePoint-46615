@@ -42,29 +42,48 @@
 
   ![CodePoint-46615's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodePoint-46615&hide=Hack&theme=vue-dark&layout=compact)  -->
 
-
 <!-- Repositories Section -->
 
 **_<h1 align="center">📝 Repository Index </h1>_**
 
+<!-- Course Related Repo -->
 <details close>
-
-  <summary><h3>📘 My Top Open Source Projects</h3></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <summary><h4>🎓 Academic & Course</h4></summary>
   <p align="left">
     <a href="https://github.com/CodePoint-46615/AgriPro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=AgriPro&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgriPro"></a>
   </p>
-
-
-<a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
 </details>
 
-<!-- 
-https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=AgriPro&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false
+<!-- Frontend Repo -->
+<details close>
+  <summary><h4>🖥️ Frontend</h4></summary>
+  <p align="left">
+    <a href="https://github.com/CodePoint-46615/AgriPro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=AgriPro&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgriPro"></a>
+  </p>
+</details>
 
-![Repo Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=AgriPro&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)
+<!-- Backend Repo -->
+<details close>
+  <summary><h4>⚙️ Backend</h4></summary>
+  <p align="left">
+    <a href="https://github.com/CodePoint-46615/AgriPro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=AgriPro&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgriPro"></a>
+  </p>
+</details>
 
- -->
+<!-- AI Repo -->
+<details close>
+  <summary><h4>🤖 AI</h4></summary>
+  <p align="left">
+    <a href="https://github.com/CodePoint-46615/AgriPro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=AgriPro&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgriPro"></a>
+  </p>
+</details>
+
+<!-- Forked Repo -->
+<details close>
+  <summary><h4>Ψ Fork</h4></summary>
+  <p align="left">
+    <a href="https://github.com/CodePoint-46615/AgriPro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=AgriPro&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgriPro"></a>
+  </p>
+</details>
+
+<a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
