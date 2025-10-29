@@ -51,7 +51,11 @@
   <summary><h3>🎓 Academic & Course</h3></summary>
   <p align="left">
     <a href="https://github.com/CodePoint-46615/learning-web-technologies-fall2024-2025-sec-e"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=learning-web-technologies-fall2024-2025-sec-e&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="learning-web-technologies-fall2024-2025-sec-e"></a>
-   
+    <a href="https://github.com/CodePoint-46615/learning-advance-web-tech"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=learning-advance-web-tech&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="learning-advance-web-tech"></a>
+    <a href="https://github.com/CodePoint-46615/P_Hero_Learning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=P_Hero_Learning&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="P_Hero_Learning"></a>
+    <a href="https://github.com/CodePoint-46615/Learning-assembly-language-spring2024-2025"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=Learning-assembly-language-spring2024-2025&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Learning-assembly-language-spring2024-2025"></a>
+    <a href="https://github.com/CodePoint-46615/Learning-java-backend-spring2024-2025"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=Learning-java-backend-spring2024-2025&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Learning-java-backend-spring2024-2025"></a>
+    <a href="https://github.com/CodePoint-46615/learning-cvpr-spring-2024-2025"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=learning-cvpr-spring-2024-2025&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="learning-cvpr-spring-2024-2025"></a>
   </p>
 </details>
 
@@ -73,6 +77,15 @@
   <summary><h3>🖥️ Frontend</h3></summary>
   <p align="left">
     <a href="https://github.com/CodePoint-46615/emergency-hotline-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=emergency-hotline-website&cache_bust=2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="emergency-hotline-website"></a>
+    <a href="https://github.com/CodePoint-46615/Payoo-MFS-Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=Payoo-MFS-Websitee&cache_bust=2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Payoo-MFS-Website"></a>
+    <a href="https://github.com/CodePoint-46615/tea-house-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=tea-house-website&cache_bust=2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="tea-house-website"></a>
+    <a href="https://github.com/CodePoint-46615/responsive-flower-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=responsive-flower-website&cache_bust=2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="responsive-flower-website"></a>
+    <a href="https://github.com/CodePoint-46615/influencer-gear"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=influencer-gear&cache_bust=2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="influencer-gear"></a>
+    <a href="https://github.com/CodePoint-46615/g3-architects-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=g3-architects-website&cache_bust=2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="g3-architects-website"></a>
+    <a href="https://github.com/CodePoint-46615/landing-launchpad"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=landing-launchpad&cache_bust=2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="landing-launchpad"></a>
+    <a href="https://github.com/CodePoint-46615/responsive-web-dev-portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=responsive-web-dev-portfolio&cache_bust=2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="responsive-web-dev-portfolio"></a>
+    <a href="https://github.com/CodePoint-46615/web-dev-portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=web-dev-portfolio&cache_bust=2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="web-dev-portfolio"></a>
+    <a href="https://github.com/CodePoint-46615/deploy-first-site"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=deploy-first-site&cache_bust=2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="deploy-first-site"></a>
   </p>
 </details>
 
@@ -82,6 +95,7 @@
   <p align="left">
     <a href="https://github.com/CodePoint-46615/exhibitPro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=exhibitPro&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="exhibitPro"></a>
     <a href="https://github.com/CodePoint-46615/Shomoysheba"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=Shomoysheba&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Shomoysheba"></a>
+    <a href="https://github.com/CodePoint-46615/Product-Inventory-Manager"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=Product-Inventory-Manager&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Product-Inventory-Manager"></a>
   </p>
 </details>
 
@@ -97,7 +111,9 @@
 <details close>
   <summary><h3>Ψ Fork</h3></summary>
   <p align="left">
-    <a href="https://github.com/CodePoint-46615/AgriPro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=AgriPro&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgriPro"></a>
+    <a href="https://github.com/CodePoint-46615/ChatALL"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=ChatALL&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ChatALL"></a>
+    <a href="https://github.com/CodePoint-46615/ts-express-kit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=ts-express-kit&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ts-express-kit"></a>
+    <a href="https://github.com/CodePoint-46615/leetcode-company-wise-problems"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=leetcode-company-wise-problems&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="leetcode-company-wise-problems"></a>
   </p>
 </details>
 
