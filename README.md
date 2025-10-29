@@ -72,7 +72,7 @@
 <details close>
   <summary><h3>🖥️ Frontend</h3></summary>
   <p align="left">
-    <a href="https://github.com/CodePoint-46615/emergency-hotline-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=emergency-hotline-website&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="emergency-hotline-website"></a>
+    <a href="https://github.com/CodePoint-46615/emergency-hotline-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=emergency-hotline-website&cache_bust=2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="emergency-hotline-website"></a>
   </p>
 </details>
 
