@@ -75,6 +75,7 @@
 <details close>
   <summary><h3>🖥️ Frontend</h3></summary>
   <p align="left">
+    <a href="https://github.com/CodePoint-46615/exhibitPro-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=exhibitPro-frontend&cache_bust=2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="exhibitPro-frontend"></a>
     <a href="https://github.com/CodePoint-46615/emergency-hotline-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=emergency-hotline-website&cache_bust=2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="emergency-hotline-website"></a>
     <a href="https://github.com/CodePoint-46615/Payoo-MFS-Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=Payoo-MFS-Website&cache_bust=2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Payoo-MFS-Website"></a>
     <a href="https://github.com/CodePoint-46615/tea-house-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=tea-house-website&cache_bust=2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="tea-house-website"></a>
@@ -110,9 +111,14 @@
 <details close>
   <summary><h3>Ψ Fork</h3></summary>
   <p align="left">
+    <a href="https://github.com/CodePoint-46615/MaLCaDD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=MaLCaDD&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MaLCaDD"></a>
     <a href="https://github.com/CodePoint-46615/ChatALL"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=ChatALL&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ChatALL"></a>
     <a href="https://github.com/CodePoint-46615/ts-express-kit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=ts-express-kit&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ts-express-kit"></a>
     <a href="https://github.com/CodePoint-46615/leetcode-company-wise-problems"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=leetcode-company-wise-problems&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="leetcode-company-wise-problems"></a>
+    <a href="https://github.com/CodePoint-46615/build-your-own-x"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=build-your-own-x&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="build-your-own-x"></a>
+    <a href="https://github.com/CodePoint-46615/basedsmiles"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=basedsmiles&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="basedsmiles"></a>
+    <a href="https://github.com/CodePoint-46615/cvpr_4234"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=cvpr_4234&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cvpr_4234"></a>
+    <a href="https://github.com/CodePoint-46615/CPP-STL-beginners-guide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=CPP-STL-beginners-guide&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CPP-STL-beginners-guide"></a>
   </p>
 </details>
 
