@@ -57,8 +57,13 @@
 <!-- Academic Project Related -->
 <details close>
   <summary><h3>👩🏻‍💻 Academic Projects</h3></summary>
+
   <p align="left">
     <a href="https://github.com/CodePoint-46615/Uran"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=Uran&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Uran"></a>
+  </p>
+
+  <p align="left">
+    <a href="https://github.com/CodePoint-46615/Software-Quality-and-Testing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=Software-Quality-and-Testing&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Software-Quality-and-Testing"></a>
   </p>
 </details>
 
