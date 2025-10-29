@@ -50,7 +50,7 @@
 <details close>
   <summary><h3>🎓 Academic & Course</h3></summary>
   <p align="left">
-    <a href="https://github.com/CodePoint-46615/learning-web-technologies-fall2024-2025-sec-e"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=learning-web-technologies-fall2024-2025-sec-e&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="learning-web-technologies-fall2024-2025-sec-e"></a>
+    <a href="https://github.com/CodePoint-46615/learning-web-technologies-fall2024-2025-sec-e"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=learning-web-technologies-fall2024-2025-sec-e&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="learning-web-technologies-fall2024-2025-sec-e"></a>
   </p>
 </details>
 
