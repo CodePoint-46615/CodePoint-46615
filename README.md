@@ -61,14 +61,12 @@
 <!-- Academic Project Related -->
 <details close>
   <summary><h3>👩🏻‍💻 Academic Projects</h3></summary>
-
   <p align="left">
     <a href="https://github.com/CodePoint-46615/Uran"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=Uran&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Uran"></a>
     <a href="https://github.com/CodePoint-46615/Software-Quality-and-Testing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=Software-Quality-and-Testing&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Software-Quality-and-Testing"></a>
     <a href="https://github.com/CodePoint-46615/anada-niloy-orphanage"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=anada-niloy-orphanage&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="anada-niloy-orphanage"></a>
     <a href="https://github.com/CodePoint-46615/AgriPro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=AgriPro&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AgriPro"></a>
   </p>
-
 </details>
 
 <!-- Frontend Repo -->
@@ -95,6 +93,7 @@
   <p align="left">
     <a href="https://github.com/CodePoint-46615/exhibitPro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=exhibitPro&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="exhibitPro"></a>
     <a href="https://github.com/CodePoint-46615/Shomoysheba"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=Shomoysheba&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Shomoysheba"></a>
+    <a href="https://github.com/CodePoint-46615/Spring-XML-based-PIM"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=Spring-XML-based-PIM&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Spring-XML-based-PIM"></a>
     <a href="https://github.com/CodePoint-46615/Product-Inventory-Manager"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=Product-Inventory-Manager&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Product-Inventory-Manager"></a>
   </p>
 </details>
@@ -119,6 +118,7 @@
     <a href="https://github.com/CodePoint-46615/build-your-own-x"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=build-your-own-x&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="build-your-own-x"></a>
     <a href="https://github.com/CodePoint-46615/basedsmiles"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=basedsmiles&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="basedsmiles"></a>
     <a href="https://github.com/CodePoint-46615/cvpr_4234"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=cvpr_4234&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cvpr_4234"></a>
+    <a href="https://github.com/CodePoint-46615/Python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=Python&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Python"></a>
     <a href="https://github.com/CodePoint-46615/CPP-STL-beginners-guide"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodePoint-46615&repo=CPP-STL-beginners-guide&cache_bust=1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CPP-STL-beginners-guide"></a>
   </p>
 </details>
