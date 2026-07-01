@@ -63,7 +63,8 @@ Research on analyzing risk factors for CVD using machine learning is being condu
 ![Numpy](https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=Matplotlib)
 ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-black?style=for-the-badge&logo=Scikitlearn)
-![ML](https://img.shields.io/badge/Machine-learning-black?style=for-the-badge&logo=machine-learning)
+![ML](https://img.shields.io/badge/ML-black?style=for-the-badge&logo=ML)
+
 
 
 
