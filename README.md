@@ -55,7 +55,7 @@ Passionate **software engineer** looking for real-world opportunity to work on *
 
 # Problem Solving
 
-Moderate practice of Data Structures and Algorithms is undertaken to sharpen problem-solving skills for technical interviews. Skills:
+Moderate practice of Data Structures and Algorithms is undertaken to sharpen problem-solving skills for technical interviews. Listed Skills.
 
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java)
 ![Leetcode](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode)
