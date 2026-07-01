@@ -35,10 +35,17 @@ Passionate **software engineer** looking for real-world opportunity to work on *
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Vscode](https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=ide)
-![Cursor](https://img.shields.io/badge/cursor-black?style=for-the-badge&logo=cursor)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=window)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)
+
+# Agentic Workflow
+
+- ![Claude](https://img.shields.io/badge/claude-black?style=for-the-badge&logo=claude)
+- ![Cursor](https://img.shields.io/badge/cursor-black?style=for-the-badge&logo=cursor)
+- ![AntiGravity](https://img.shields.io/badge/Antigravity-black?style=for-the-badge&logo=antigravity)
+- ![Warp](https://img.shields.io/badge/warp-black?style=for-the-badge&logo=warp)
+
 
 # Projects
 
