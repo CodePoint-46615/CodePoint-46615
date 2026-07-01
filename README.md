@@ -41,11 +41,10 @@ Passionate **software engineer** looking for real-world opportunity to work on *
 
 # Agentic Workflow
 
-- ![Claude](https://img.shields.io/badge/claude-black?style=for-the-badge&logo=claude)
-- ![Cursor](https://img.shields.io/badge/cursor-black?style=for-the-badge&logo=cursor)
-- ![AntiGravity](https://img.shields.io/badge/Antigravity-black?style=for-the-badge&logo=antigravity)
-- ![Warp](https://img.shields.io/badge/warp-black?style=for-the-badge&logo=warp)
-
+![Claude](https://img.shields.io/badge/claude-black?style=for-the-badge&logo=claude)
+![Cursor](https://img.shields.io/badge/cursor-black?style=for-the-badge&logo=cursor)
+![Antigravity](https://img.shields.io/badge/Antigravity-black?style=for-the-badge&logo=Antigravity)
+![Warp](https://img.shields.io/badge/warp-black?style=for-the-badge&logo=warp)
 
 # Projects
 
@@ -96,11 +95,12 @@ Moderate practice of Data Structures and Algorithms is undertaken to sharpen pro
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codePoint-46615)
 
 # Recents
+
 - QCapCover - Agent-based software for AI-generated, SEO-optimized Instagram music cover captions
 
 # Experience
 
-- **[InteliCores](https://www.linkedin.com/company/intelicore/)** - Research & Development (R&D) Intern at Intelicores (Remote) for 3 months from 18-12-2025 to 18-03-2026. 
+- **[InteliCores](https://www.linkedin.com/company/intelicore/)** - Research & Development (R&D) Intern at Intelicores (Remote) for 3 months from 18-12-2025 to 18-03-2026.
 
 <!-- # Achievement -->
 
