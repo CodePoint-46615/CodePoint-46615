@@ -47,6 +47,12 @@ Passionate **software engineer** looking for real-world opportunity to work on *
 - 🎭 **![ExhibitPro - Backend](https://github.com/CodePoint-46615/exhibitPro-backend.git)** - Smart Exhibit Management System for organizing events & exhibitions easily.
 - 🎭 **[ExhibitPro - Frontend](https://github.com/CodePoint-46615/exhibitPro-frontend.git)** - Smart Exhibit Management System for organizing events & exhibitions easily.
 
+# Problem Solving
+Moderate practice of Data Structures and Algorithms is undertaken to sharpen problem-solving skills for technical interviews.
+Skills: ![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java)
+![Static Badge](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode)
+
+
 
 
 
