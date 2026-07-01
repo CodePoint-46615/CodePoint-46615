@@ -49,13 +49,13 @@ Passionate **software engineer** looking for real-world opportunity to work on *
 - 🎭 **[ExhibitPro - Frontend](https://github.com/CodePoint-46615/exhibitPro-frontend.git)** - Smart Exhibit Management System for organizing events & exhibitions easily.
 
 # Problem Solving
-Moderate practice of Data Structures and Algorithms is undertaken to sharpen problem-solving skills for technical interviews.
-Skills: ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java)
+Moderate practice of Data Structures and Algorithms is undertaken to sharpen problem-solving skills for technical interviews.Skills: 
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java)
 ![Leetcode](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode)
 
 # Research Work
-Research on analyzing risk factors for CVD using machine learning is being conducted.
-Skills: ![Jupyter Notebook](https://img.shields.io/badge/Notebook-black?style=for-the-badge&logo=jupyter)
+Research on analyzing risk factors for CVD using machine learning is being conducted. Skills: 
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-black?style=for-the-badge&logo=jupyter)
 ![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![Numpy](https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy)
