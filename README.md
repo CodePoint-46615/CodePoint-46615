@@ -63,7 +63,8 @@ Moderate practice of Data Structures and Algorithms is undertaken to sharpen pro
 # Research Work
 
 <details>
-  <h3>Research on analyzing risk factors for CVD using machine learning is being conducted. Skills:</h3>
+  <summary>Research No. 1</summary>
+  <h3>Research on analyzing risk factors for CVD using machine learning is being conducted. Listed Skills.</h3>
 
   ![Jupyter Notebook](https://img.shields.io/badge/Notebook-black?style=for-the-badge&logo=jupyter)
   ![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle)
