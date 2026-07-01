@@ -105,3 +105,14 @@ Moderate practice of Data Structures and Algorithms is undertaken to sharpen pro
 <!-- # Achievement -->
 
 <!-- # Philoshophy  -->
+
+# ACKNOWLEDGMENTS
+
+Visuals powered by
+
+- **[Shields.io](https://shields.io/)**
+- **[Simple Icons](https://simpleicons.org/)** 
+- **[antonkomarev](https://github.com/antonkomarev/github-profile-views-counter)** 
+
+
+
