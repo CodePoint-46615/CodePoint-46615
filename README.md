@@ -88,7 +88,8 @@ Moderate practice of Data Structures and Algorithms is undertaken to sharpen pro
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Opening_Task5490?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Opening_Task5490/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codePoint-46615)
 
-<!-- # Recents -->
+# Recents
+- QCapCover - Agent-based software for AI-generated, SEO-optimized Instagram music cover captions
 
 # Experience
 
