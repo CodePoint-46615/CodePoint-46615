@@ -55,7 +55,19 @@ Skills: ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo
 
 # Research Work
 Research on analyzing risk factors for CVD using machine learning is being conducted.
-Skills: 
+Skills: ![Jupyter Notebook](https://img.shields.io/badge/Notebook-black?style=for-the-badge&logo=jupyter)
+![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Numpy](https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=Matplotlib)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-black?style=for-the-badge&logo=Scikitlearn)
+![ML](https://img.shields.io/badge/Machine-learning-black?style=for-the-badge&logo=machine-learning)
+
+
+
+
+
+
 
 
 
