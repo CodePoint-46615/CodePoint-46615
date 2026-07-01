@@ -106,7 +106,7 @@ Moderate practice of Data Structures and Algorithms is undertaken to sharpen pro
 
 <!-- # Philoshophy  -->
 
-# ACKNOWLEDGMENTS
+# Acknowledgements
 
 Visuals powered by
 
