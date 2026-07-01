@@ -8,6 +8,7 @@ Passionate **software engineer** looking for real-world opportunity to work on *
 <!-- Github, Youtube -->
 <!-- ![GitHub followers](https://img.shields.io/github/followers/CodePoint-46615?style=for-the-badge&logo=github)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2-bCyvAABEydL1Pd4N-Y3g?style=for-the-badge&logo=youtube) -->
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=CodePoint-46615&color=282a36&style=for-the-badge)
 
 
 # Developing Stacks
