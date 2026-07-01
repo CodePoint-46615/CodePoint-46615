@@ -50,8 +50,8 @@ Passionate **software engineer** looking for real-world opportunity to work on *
 
 # Problem Solving
 Moderate practice of Data Structures and Algorithms is undertaken to sharpen problem-solving skills for technical interviews.
-Skills: ![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java)
-![Static Badge](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode)
+Skills: ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java)
+![Leetcode](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode)
 
 # Research Work
 Research on analyzing risk factors for CVD using machine learning is being conducted.
