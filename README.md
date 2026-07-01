@@ -83,6 +83,6 @@ Moderate practice of Data Structures and Algorithms is undertaken to sharpen pro
 ](https://www.instagram.com/saikotkundu.swe/)
 [![Static Badge](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=Linkedin)
 ](https://www.linkedin.com/in/saikotkundu/)
-![Discord](https://img.shields.io/discord/1521939986545381427?style=for-the-badge&logo=discord)
+[![Discord](https://img.shields.io/discord/1521939986545381427?style=for-the-badge&logo=discord)](https://discord.com/channels/1521939986545381427/1521939987157876748)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Opening_Task5490?style=for-the-badge&logo=reddit)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codePoint-46615)
