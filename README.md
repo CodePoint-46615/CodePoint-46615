@@ -87,3 +87,13 @@ Moderate practice of Data Structures and Algorithms is undertaken to sharpen pro
 [![Discord](https://img.shields.io/discord/1521939986545381427?style=for-the-badge&logo=discord)](https://discord.com/channels/1521939986545381427/1521939987157876748)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Opening_Task5490?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Opening_Task5490/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codePoint-46615)
+
+<!-- # Recents -->
+
+# Experience
+
+- **[InteliCores](https://www.linkedin.com/company/intelicore/)** - Research & Development (R&D) Intern at Intelicores (Remote) for 3 months from 18-12-2025 to 18-03-2026. 
+
+<!-- # Achievement -->
+
+<!-- # Philoshophy  -->
