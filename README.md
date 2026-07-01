@@ -36,9 +36,16 @@ Passionate **software engineer** looking for real-world opportunity to work on *
 
 # Projects
 
-## Current Projects 
+<!-- ## Current Projects  -->
 
 ## Academic Projects
+
+- 📱 **![Payoo](https://codepoint-46615.github.io/Payoo-MFS-Website/)** - Payoo is a static, client-side web application that simulates a Mobile Financial Services (MFS) experience.
+- **[Green Earth](https://green-earth-89i.pages.dev/)** - Static, client-side web application. fetching an API data.
+- 🌾 **![AgriPro](https://github.com/CodePoint-46615/AgriPro.git)** - Smart web-based system connecting farmers, advisors & admins for better farming.
+- 🕜 **![Shomoysheba](https://github.com/CodePoint-46615/Shomoysheba.git)** -  Java Spring Boot service platform ⚙️
+- 🎭 **![ExhibitPro - Backend](https://github.com/CodePoint-46615/exhibitPro-backend.git)** - Smart Exhibit Management System for organizing events & exhibitions easily.
+- 🎭 **[ExhibitPro - Frontend](https://github.com/CodePoint-46615/exhibitPro-frontend.git)** - Smart Exhibit Management System for organizing events & exhibitions easily.
 
 
 
