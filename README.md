@@ -1,4 +1,4 @@
 <!-- Introduction -->
 # Hi 👋, This is Mr. Kundu
 
-📍 **Dhaka** ↔ **Bangladesh** | **Fresh CSE Grad** | **Major SE** | **AIUB**
+📍 **Dhaka** ↔ **Bangladesh** |🎓 **Fresh CSE Grad** |💻 **Major SWE** |🏛️ **AIUB**
