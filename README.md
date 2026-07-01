@@ -7,7 +7,6 @@ Passionate **software engineer** looking for real-world opportunity to work on *
 
 <!-- Github, Youtube -->
 ![GitHub followers](https://img.shields.io/github/followers/CodePoint-46615?style=for-the-badge&logo=github)
-
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2-bCyvAABEydL1Pd4N-Y3g?style=for-the-badge&logo=youtube)
 
 
@@ -15,19 +14,15 @@ Passionate **software engineer** looking for real-world opportunity to work on *
 
 <!-- langauges -->
 ![Static Badge](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
 <!-- Web -->
 ![Static Badge](https://img.shields.io/badge/Web-black?style=for-the-badge&logo=google-chrome)
-
 ![Static Badge](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-
 ![Static Badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 
 <!-- database -->
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![Static Badge](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
 
 
