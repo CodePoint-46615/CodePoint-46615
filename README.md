@@ -6,15 +6,15 @@
 Passionate **software engineer** looking for real-world opportunity to work on **large scale** projects with a focus on **optimization**, **clean code principles** and develop an understanding of **SDLC**.
 
 <!-- Github, Youtube -->
-<!-- ![GitHub followers](https://img.shields.io/github/followers/CodePoint-46615?style=for-the-badge&logo=github)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2-bCyvAABEydL1Pd4N-Y3g?style=for-the-badge&logo=youtube) -->
+![GitHub followers](https://img.shields.io/github/followers/CodePoint-46615?style=for-the-badge&logo=github)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2-bCyvAABEydL1Pd4N-Y3g?style=for-the-badge&logo=youtube)
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=CodePoint-46615&color=282a36&style=for-the-badge)
 
 
 # Developing Stacks
 
 <!-- langauges -->
-![Static Badge](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
 <!-- Web -->
@@ -52,6 +52,10 @@ Passionate **software engineer** looking for real-world opportunity to work on *
 Moderate practice of Data Structures and Algorithms is undertaken to sharpen problem-solving skills for technical interviews.
 Skills: ![Static Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java)
 ![Static Badge](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode)
+
+# Research Work
+Research on analyzing risk factors for CVD using machine learning is being conducted.
+Skills: 
 
 
 
