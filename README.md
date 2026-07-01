@@ -74,6 +74,6 @@ Moderate practice of Data Structures and Algorithms is undertaken to sharpen pro
   ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-black?style=for-the-badge&logo=Scikitlearn)
   ![ML](https://img.shields.io/badge/ML-black?style=for-the-badge&logo=ML)
 
--Look at: [Repo Link](https://github.com/CodePoint-46615/Thesis.git)
+- Look at: [Repo Link](https://github.com/CodePoint-46615/Thesis.git)
 
 </details>
