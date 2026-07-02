@@ -2,7 +2,7 @@
 
 # Hi 👋, This is Mr. Kundu
 
-📍 **Dhaka** ↔ **Bangladesh** |💻 **Software Developer** |🌐 **Web** |👨🏼‍💻 **Full-Stack & Backend** |🚀 **API Development** |🤖 **AI-Assisted Software Development**    
+📍 **Dhaka** ↔ **Bangladesh** |💻 **Software Developer** |🌐 **Web** |🔗 **Full-Stack & Backend** |🚀 **API Development** |🤖 **AI-Assisted Software Development**    
 
 Passionate **Software Developer** looking for opportunities to contribute to **real-world software systems** while continuously improving my skills in **backend** and **full-stack development**. My interests involve writing **maintainable and clean code**, grasping the **SDLC**, and exploring modern **AI engineering** practices, including **agentic 	workflows**, **context engineering**, and **AI-assisted software development**.
 
