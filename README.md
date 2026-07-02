@@ -4,7 +4,8 @@
 
 📍 **Dhaka** ↔ **Bangladesh** |🎓 **Fresh CSE Grad** |💻 **Major SWE** |🏛️ **AIUB**
 
-Passionate **software engineer** looking for real-world opportunity to work on **large scale** projects with a focus on **optimization**, **clean code principles** and develop an understanding of **SDLC**.
+Passionate **Software Developer** looking for opportunities to contribute to **real-world software systems** while continuously improving my skills in **backend** and **full-stack development**. My interests involve writing **maintainable and clean code**, grasping the **SDLC**, and exploring modern **AI engineering** practices, including **agentic 	workflows**, **context engineering**, and **AI-assisted software development**.
+
 
 <!-- Github, Youtube -->
 
