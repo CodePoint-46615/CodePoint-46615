@@ -4,14 +4,16 @@
 
 📍 **Dhaka** ↔ **Bangladesh** |💻 **Software Developer** |🌐 **Web** |🔗 **Full-Stack & Backend** |🚀 **API Development** |🤖 **AI-Assisted Software Development**    
 
-Passionate **Software Developer** looking for opportunities to contribute to **real-world software systems** while continuously improving my skills in **backend** and **full-stack development**. My interests involve writing **maintainable and clean code**, grasping the **SDLC**, and exploring modern **AI engineering** practices, including **agentic 	workflows**, **context engineering**, and **AI-assisted software development**. Look at my **[Portfolio](https://codepoint-46615.github.io/)**
-
+Passionate **Software Developer** looking for opportunities to contribute to **real-world software systems** while continuously improving my skills in **backend** and **full-stack development**. My interests involve writing **maintainable and clean code**, grasping the **SDLC**, and exploring modern **AI engineering** practices, including **agentic 	workflows**, **context engineering**, and **AI-assisted software development**. 
 
 <!-- Github, Youtube -->
 
 [![GitHub followers](https://img.shields.io/github/followers/CodePoint-46615?style=for-the-badge&logo=github)](https://github.com/codePoint-46615)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2-bCyvAABEydL1Pd4N-Y3g?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SaikotKunduOfficial)
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=CodePoint-46615&color=282a36&style=for-the-badge)
+
+<!-- Portfolio Link  -->
+Portfolio **[Link](https://codepoint-46615.github.io/)**
 
 # Developing Stacks
 
