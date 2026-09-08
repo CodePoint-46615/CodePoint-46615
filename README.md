@@ -1,10 +1,11 @@
-<!-- Introduction -->
-
+<!-- Greeting -->
 # Hi 👋, This is Mr. Kundu
 
+<!-- location -->
 📍 **Dhaka** ↔ **Bangladesh** 
 
-💻 **Software Developer** |🌐 **Web** |🔗 **Full-Stack** |🚀 **Backend & API** 
+<!-- title -->
+💻 **Software Developer**  |🌐 **Web**  |🔗 **Full-Stack**  |🚀 **Backend & API** 
 
 Passionate **Software Developer** looking for opportunities to contribute to **real-world software systems** while continuously improving my skills in **backend**, **API**, and **full-stack development**. My interests involve writing **maintainable and clean code**, grasping the **SDLC**, understanding **system design fundamentals** and **API security**, and exploring modern **full-stack AI engineering** practices, including **agentic workflows**, **context engineering**, and **AI-assisted software development**.
 
