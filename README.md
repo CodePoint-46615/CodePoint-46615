@@ -18,7 +18,7 @@ Passionate **Software Developer** looking for opportunities to contribute to **r
 
 # Developing Stacks
 
-## Langauges
+### Langauges
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
