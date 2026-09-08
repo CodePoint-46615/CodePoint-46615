@@ -18,21 +18,28 @@ Passionate **Software Developer** looking for opportunities to contribute to **r
 
 # Developing Stacks
 
-<!-- langauges -->
+## Langauges
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-<!-- Web -->
+## Web
 
 ![Web](https://img.shields.io/badge/Web-black?style=for-the-badge&logo=google-chrome)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
 
-<!-- database -->
+
+## Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+
+## Framework
+
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+
+
 
 <!-- tools -->
 
